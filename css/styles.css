@@ -464,7 +464,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     color: #F4F4FD;
 }
 
-.para {
+.paragh {
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
@@ -475,7 +475,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin-right: 120px;
 }
 
-.footer-socials-title {
+.footer-title {
     color: #fff;
     font-size: 16px;
     font-weight: 500;
@@ -517,12 +517,13 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     fill: #f4f4fd;
 }
 
+
 .subscribe-input {
     width: 264px;
     height: 40px;
-    color: #fcfcfc;
+    color: #ffffff;
     border-radius: 4px;
-    border: 1px solid #fcfcfc;
+    border: 1px solid #ffffff;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     background-color: transparent;
     font-size: 12px;
@@ -533,7 +534,7 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .subscribe-input::placeholder {
-    color: #fcfcfc;
+    color: #ffffff;
     font-family: Roboto;
     font-size: 12px;
     font-weight: 400;
