@@ -447,6 +447,17 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     align-items: baseline;
 }
+.para{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+    max-width: 264px;
+}
+
+.footer-logo-text {
+    margin-right: 120px;
+    margin-left: 156px;
+}
 
 .end-logo {
     display: inline-block;
@@ -464,16 +475,6 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     color: #F4F4FD;
 }
 
-.paragh {
-    line-height: 1.5;
-    color: #F4F4FD;
-    letter-spacing: 0.02em;
-    max-width: 264px;
-}
-
-.footer-logo-text {
-    margin-right: 120px;
-}
 
 .footer-title {
     color: #fff;
@@ -517,7 +518,9 @@ transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);
     fill: #f4f4fd;
 }
 
-
+.subscribe-box{
+    margin-left: 62px;
+}
 .subscribe-input {
     width: 264px;
     height: 40px;
