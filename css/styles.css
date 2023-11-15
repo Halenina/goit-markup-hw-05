@@ -227,7 +227,7 @@ ul {
     margin-bottom: 8px;
 }
 
-.hidden{
+.visually-hidden{
         position: absolute;
         width: 1px;
         height: 1px;
@@ -779,7 +779,7 @@ textarea::placeholder {
 .modal-checkbox-input:checked+.modal-checkbox-label .modal-checkbox-check {
     background-color: #404BBF;
         border: none;
-        fill: #FFFFFF;
+        fill:#F4F4FD;
         border-color: #404BBF;
 
 }
